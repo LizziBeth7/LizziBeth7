@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Elizabeth!</h1>
-  <p>I'm currently studing a Bachelor of Game Design and Simulation, majoring in programming.</p>
+  <p>I'm currently studing a Bachelor of Game Design and Simulation, majoring in programming. I am passionate about both coding and design and love the way Game Development combines the two. </p>
 
 
 <h2>Code Based Projects</h2>
