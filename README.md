@@ -1,15 +1,19 @@
-## Hi there 👋
 
-<h1>Code Based Projects</h1>
-<h2>Graphic Programming Data display</h2>
-<h2>find yr 11 game</h2>
-<h2>OOP C++ code </h2>
-<h2>python christmas challenges</h2>
+<h1>Hi, I'm Elizabeth!</h1>
+  <p>I'm currently studing a Bachelor of Game Design and Simulation, majoring in programming.</p>
 
 
-<h1>Design Based Projects</h1>
-<h2>3D circus </h2>
-<h2>fall animated video</h2>
+<h2>Code Based Projects</h2>
+<h3>Graphic Programming Data display</h3>
+<h3>find yr 11 game</h3>
+<h3>OOP C++ code </h3>
+<h3>python christmas challenges</h3>
+<h3>web page</h3>
+
+
+<h2>Design Based Projects</h2>
+<h3>3D circus </h3>
+<h3>many/few animated video</h3>
 
 <!--
 **LizziBeth7/LizziBeth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
