@@ -13,7 +13,10 @@
 
 <h2>Design Based Projects</h2>
 <h3>3D circus </h3>
-<h3>many/few animated video</h3>
+<h3><a href="https://github.com/LizziBeth7/SimpleAnimationProject">Simple Animation Project</a></h3>
+<p>A small animation project, done in Adobe After Effects, visually representing the difference between two opposite words.</p>
+
+
 
 <!--
 **LizziBeth7/LizziBeth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
