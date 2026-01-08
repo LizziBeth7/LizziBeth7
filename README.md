@@ -1,7 +1,20 @@
 ## Hi there 👋
 
+<h1>Code Based Projects</h1>
+<h2>Graphic Programming Data display</h2>
+<h2>find yr 11 game</h2>
+<h2>OOP C++ code </h2>
+<h2>python christmas challenges</h2>
+
+
+<h1>Design Based Projects</h1>
+<h2>3D circus </h2>
+<h2>fall animated video</h2>
+
 <!--
 **LizziBeth7/LizziBeth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
