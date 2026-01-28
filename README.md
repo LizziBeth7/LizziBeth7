@@ -5,9 +5,10 @@
 
 <h2>Code Based Projects</h2>
 <h3>Graphic Programming Data display</h3>
+<h3><a href="https://github.com/LizziBeth7/PythonChallenges/tree/main">Python Advent of Code Challenges</h3>
+  <p>A colection of small python coding challenges from the <a href="https://adventofcode.com/2015">Advent of Code website.</a></p>
 <h3>find yr 11 game</h3>
 <h3>OOP C++ code </h3>
-<h3>python christmas challenges</h3>
 <h3>web page</h3>
 
 
