@@ -12,10 +12,11 @@
 <h3><a href="https://github.com/LizziBeth7/PythonChallenges/tree/main">Python Advent of Code Challenges</h3>
   <p>A colection of small python coding challenges from the <a href="https://adventofcode.com/2015">Advent of Code website.</a></p>
 
+<h3><a href="https://github.com/LizziBeth7/SimpleHangman">Simple Hangman in C++</h3>
+<p>A hangman game played in the terminal and coded in C++</p>
+
 <h3><a href="https://github.com/LizziBeth7/RetailWebsiteExample">Example Retail Web Page</h3>
 <p>A webpage created for a fake retail company that has customer/staff login as well as order creation and display.</p>
-
-<h3>OOP C++ code </h3>
 
 <h2>Design Based Projects</h2>
 <h3><a href="https://github.com/LizziBeth7/3DAutomatonCircus/tree/main">3D Automaton circus </h3>
