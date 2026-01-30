@@ -3,10 +3,11 @@
   <p>I'm currently studing a Bachelor of Game Design and Simulation, majoring in programming. I am passionate about both coding and design and love the way Game Development combines the two. </p>
 
 <h2>Complete Game Projects</h2>
-<h3>Chciken Maze</h3>
+<h3><a href="https://github.com/LizziBeth7/ChickenMazeGame">Chciken Maze</a></h3>
+<p>A basic unty game made from a collection of free assets and tutorials.</p>
 
 <h2>Code Based Projects</h2>
-<h3><a href="https://github.com/LizziBeth7/GraphicDataDisplay">Graphic Programming Data display</h3>
+<h3><a href="https://github.com/LizziBeth7/GraphicDataDisplay">Graphic Programming Data display</a></h3>
   <p>This is a visual display of data taken from a csv or txt file done in Processing.</p>
 <h3><a href="https://github.com/LizziBeth7/PythonChallenges/tree/main">Python Advent of Code Challenges</h3>
   <p>A colection of small python coding challenges from the <a href="https://adventofcode.com/2015">Advent of Code website.</a></p>
