@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Elizabeth!</h1>
-  <p>I'm currently studing a Bachelor of Game Design and Simulation, majoring in programming. I am passionate about both coding and design and love the way Game Development combines the two. </p>
+  <p>I'm currently studing a Bachelor of Entrepreneurship in Game Design and Simulation, majoring in programming. I am passionate about both coding and design and love the way Game Development combines the two. </p>
 
 <h2>Complete Game Projects</h2>
 <h3><a href="https://github.com/LizziBeth7/ChickenMazeGame">Chicken Maze</a></h3>
