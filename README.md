@@ -3,6 +3,10 @@
   <p>I'm currently studing a Bachelor of Entrepreneurship in Game Design and Simulation, majoring in programming. I am passionate about both coding and design and love the way Game Development combines the two. </p>
 
 <h2>Complete Game Projects</h2>
+
+<h3><a href="https://github.com/LizziBeth7/TheButterflyHeist">The Butterfly Heist</a></h3>
+<p>A basic game I created with a friend in 3 days for a game jam.</p>
+
 <h3><a href="https://github.com/LizziBeth7/ChickenMazeGame">Chicken Maze</a></h3>
 <p>A basic unty game made from a collection of free assets and tutorials.</p>
 
